@@ -1,7 +1,7 @@
 # Noteful
 By Renata D.
 
-[![Netlify Status]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d69f05d8-8cc0-46a8-ae4e-229ef931988a/deploy-status)](https://app.netlify.com/sites/noteful-app/deploys)
 
 ## 📌 Summary:
 _Noteful_ app is meant to be a simple and concise. It lets you jot down notes or highlight important sections of web pages, just like you might in a textbook. It features a Folder sidebar that you can organize your notes according to the theme you decide, since you can name your own Folders. On the notes side, you can also put the title that you decide and decide in which category your note will fit better by choosing the correct Folder.
@@ -10,7 +10,7 @@ This app can be use for a plethora of reasons. Homework organization, chores, be
 
 ## 📌🔗 Links:
 
-* Live: [Noteful]()
+* Live: [Noteful](https://noteful-app.netlify.app/)
 * Heroku: [API](https://young-harbor-13421.herokuapp.com)
 * Client: [Github - Noteful](https://github.com/Seraphyne/noteful-reformed-client)
 * Server: [Github - Noteful](https://github.com/Seraphyne/noteful-reformed-server)
