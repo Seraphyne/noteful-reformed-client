@@ -11,7 +11,7 @@ This app can be use for a plethora of reasons. Homework organization, chores, be
 ## 📌🔗 Links:
 
 * Live: [Noteful](https://noteful-app.netlify.app/)
-* Heroku: [API](https://young-harbor-13421.herokuapp.com)
+* Heroku: [API](https://guarded-peak-55689.herokuapp.com/)
 * Client: [Github - Noteful](https://github.com/Seraphyne/noteful-reformed-client)
 * Server: [Github - Noteful](https://github.com/Seraphyne/noteful-reformed-server)
 
